@@ -1,0 +1,8 @@
+Hello Console!
+Error Console!
+┌───────────┬────────┐
+│  (index)  │ Values │
+├───────────┼────────┤
+│ firstName │ 'John' │
+│ lastName  │ 'Doe'  │
+└───────────┴────────┘
